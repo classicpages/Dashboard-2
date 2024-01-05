@@ -152,7 +152,7 @@ padding: 1rem;
 .card--wrapper {
     display: flex;
     flex-wrap: wrap;
-    gap: 1rem;
+    gap: 0.5rem;
 }
 
 .main--title {
@@ -164,8 +164,8 @@ padding: 1rem;
 .payment--card {
     background: rgb(229, 233, 233);
     border-radius: 10px;
-    padding: 1.2rem;
-    width: 290px;
+    padding: 1rem;
+    width: 280px;
     height: 150px;
     display: flex;
     flex-direction: column;
